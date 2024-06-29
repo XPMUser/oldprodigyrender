@@ -46326,7 +46326,7 @@
 						"y": 6
 					}
 				},
-				"type": "localatlas",
+				"type": "localatlaspictures",
 				"shirt": {
 					"x": -5,
 					"y": -14,
@@ -46384,7 +46384,7 @@
 						"y": 6
 					}
 				},
-				"type": "localatlas",
+				"type": "localatlaspictures",
 				"shirt": {
 					"x": -5,
 					"y": -15,
@@ -46446,7 +46446,7 @@
 								"y": 6
 							}
 						},
-						"type": "localatlas",
+						"type": "localatlaspictures",
 						"shirt": {
 							"x": -5,
 							"y": -15,
@@ -46486,7 +46486,7 @@
 								"y": 6
 							}
 						},
-						"type": "localatlas",
+						"type": "localatlaspictures",
 						"shirt": {
 							"x": -5,
 							"y": -14,
